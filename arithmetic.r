@@ -1,0 +1,6 @@
+a<-c(1,0,1)
+b<-c(2,33,4)
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
